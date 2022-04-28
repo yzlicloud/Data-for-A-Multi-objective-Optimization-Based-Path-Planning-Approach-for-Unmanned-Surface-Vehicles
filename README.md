@@ -1,5 +1,5 @@
 # Data-for-Intelligent-Navigation-A-Sensor-based-Path-Planning-Approach-for-Unmanned-Surface-Vehicles
-This is the original data for the author's ariticle: Intelligent Navigation: A Sensor-based Path Planning Approach for Unmanned Surface Vehicles. Submitted to *Remote Sensing*. 
+This is the original data for the author's ariticle: *Intelligent Navigation: A Sensor-based Path Planning Approach for Unmanned Surface Vehicles*. Submitted to *Remote Sensing*. 
 
 ### Requirements:
 MATLAB 2021a is prefered.\
