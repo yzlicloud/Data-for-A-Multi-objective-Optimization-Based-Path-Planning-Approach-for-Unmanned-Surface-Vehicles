@@ -2,7 +2,7 @@
 This is the original data for the author's ariticle: *A Multi-objective Optimization Based Path Planning Approach for Unmanned Surface Vehicles*. Submitted to *Ships and Offshore Structures*. 
 
 ### Requirements:
-MATLAB 2021a is prefered.\
+MATLAB 2021a is preferred.\
 The Navigational Toolbox package is required.
 
 ### How to use it?
